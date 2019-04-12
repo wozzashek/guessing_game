@@ -22,3 +22,11 @@ cargo build will bring in compile and add relevant crate data to 'Cargo.lock' fi
 Can use 'cargo update' to update packages
 
 We used the rand crate, and use a thread to generate a random number everytime the program is run
+
+
+## Convert entry to int32
+
+```rust
+let guess: u32 = guess.trm().parse()
+    .expect("Please type a number");
+```
