@@ -30,3 +30,10 @@ We used the rand crate, and use a thread to generate a random number everytime t
 let guess: u32 = guess.trm().parse()
     .expect("Please type a number");
 ```
+
+## Added loop & error handling
+
+```rust
+loop {}
+```
+Added error handling
