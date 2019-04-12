@@ -37,3 +37,5 @@ let guess: u32 = guess.trm().parse()
 loop {}
 ```
 Added error handling
+
+## Removed display of random number
