@@ -39,3 +39,5 @@ loop {}
 Added error handling
 
 ## Removed display of random number
+
+## Created a release build
